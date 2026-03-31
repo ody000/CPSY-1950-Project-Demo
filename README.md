@@ -31,6 +31,7 @@ OPENAI_API_KEY=your_api_key_here
 5. After installing, you usually also want to register the environment as a Jupyter kernel:
 ````
 python -m ipykernel install --user --name cpsy1950
+````
 
 6. Open the notebook and run all cells.
 ## References
