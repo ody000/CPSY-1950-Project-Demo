@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 4. Create a `.env` file in the root directory with your API key (Or just copy and paste the API key into your notebook while making sure it stays on your machine): 
 ```
-echo "OPENAI_API_KEY=your_api_key_here" > .env
+echo OPENAI_API_KEY=your_api_key_here > .env
 ```
 
 5. After installing, you usually also want to register the environment as a Jupyter kernel:
