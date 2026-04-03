@@ -1,0 +1,347 @@
+trial,eccentricity_pct,noise_level,spatial_freq_cpd,offset_deg,abs_offset_deg,side,true_choice,model_choice,model_raw_text,correct,api_error
+0,0.0,very_high,1.8,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+1,50.0,low,0.6,16.0,16.0,1,CW,CCW,CCW,0,
+2,50.0,low,0.6,8.0,8.0,1,CW,CCW,"Given the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+3,50.0,low,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+4,50.0,low,0.6,24.0,24.0,1,CW,CCW,CCW,0,
+5,50.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+6,50.0,very_high,0.6,8.0,8.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+7,50.0,very_high,0.6,-16.0,16.0,1,CCW,CCW,CCW,1,
+8,0.0,low,0.6,-24.0,24.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+9,0.0,low,0.6,-16.0,16.0,1,CCW,CCW,CCW,1,
+10,0.0,very_high,0.6,8.0,8.0,-1,CW,CW,"Given the orientation of the Gabor patch in the image, the tilt appears to be slightly clockwise relative to vertical.
+
+CW",1,
+11,0.0,very_high,1.8,16.0,16.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+12,0.0,low,1.8,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+13,0.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+14,0.0,very_high,1.8,8.0,8.0,1,CW,CCW,CCW,0,
+15,50.0,very_high,1.8,-16.0,16.0,1,CCW,CCW,CCW,1,
+16,50.0,very_high,1.8,-16.0,16.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+17,50.0,low,1.8,24.0,24.0,-1,CW,CCW,CCW,0,
+18,0.0,low,1.8,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+19,50.0,very_high,1.8,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+20,0.0,very_high,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+21,0.0,low,1.8,-8.0,8.0,1,CCW,CCW,CCW,1,
+22,0.0,very_high,1.8,-8.0,8.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+23,0.0,very_high,1.8,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+24,50.0,low,1.8,-16.0,16.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+25,50.0,low,1.8,-24.0,24.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+26,50.0,low,1.8,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+27,0.0,very_high,1.8,-16.0,16.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+28,50.0,very_high,1.8,8.0,8.0,-1,CW,CCW,CCW,0,
+29,50.0,low,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+30,50.0,very_high,0.6,-24.0,24.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+31,50.0,low,1.8,16.0,16.0,-1,CW,CCW,CCW,0,
+32,0.0,very_high,0.6,-16.0,16.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+33,0.0,very_high,1.8,-16.0,16.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+34,0.0,low,0.6,8.0,8.0,-1,CW,CCW,CCW,0,
+35,0.0,low,1.8,-16.0,16.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+36,0.0,low,1.8,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+37,0.0,low,1.8,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+38,50.0,very_high,1.8,-16.0,16.0,1,CCW,CCW,CCW,1,
+39,0.0,very_high,0.6,-8.0,8.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+40,0.0,low,0.6,-8.0,8.0,1,CCW,CCW,CCW,1,
+41,0.0,very_high,1.8,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+42,50.0,very_high,1.8,24.0,24.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+43,0.0,very_high,0.6,24.0,24.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+44,0.0,low,1.8,-8.0,8.0,1,CCW,CCW,CCW,1,
+45,50.0,very_high,1.8,24.0,24.0,-1,CW,CCW,CCW,0,
+46,50.0,very_high,0.6,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+47,50.0,low,1.8,-24.0,24.0,1,CCW,CCW,CCW,1,
+48,50.0,low,1.8,-16.0,16.0,1,CCW,CCW,CCW,1,
+49,0.0,low,1.8,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+50,50.0,low,1.8,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+51,0.0,low,0.6,16.0,16.0,-1,CW,CCW,CCW,0,
+52,0.0,very_high,1.8,24.0,24.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+53,0.0,low,1.8,16.0,16.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+54,50.0,low,1.8,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+55,0.0,low,1.8,24.0,24.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+56,50.0,very_high,0.6,-16.0,16.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+57,0.0,low,0.6,8.0,8.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+58,50.0,low,1.8,-16.0,16.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+59,50.0,very_high,0.6,-16.0,16.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to have a slight tilt. The orientation of the patch is counterclockwise relative to vertical.
+
+CCW",1,
+60,50.0,low,0.6,8.0,8.0,-1,CW,CCW,"The Gabor patch in the image appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+61,50.0,very_high,1.8,16.0,16.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+62,0.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+63,50.0,low,1.8,24.0,24.0,1,CW,CW,"Given the orientation of the Gabor patch in the image, the tilt appears to be clockwise relative to vertical.
+
+CW",1,
+64,50.0,low,1.8,16.0,16.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+65,0.0,low,0.6,-24.0,24.0,1,CCW,CCW,CCW,1,
+66,0.0,low,0.6,-8.0,8.0,-1,CCW,CCW,CCW,1,
+67,50.0,very_high,0.6,16.0,16.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+68,0.0,low,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+69,0.0,very_high,0.6,-16.0,16.0,-1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+70,0.0,very_high,0.6,-16.0,16.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+71,0.0,low,1.8,-24.0,24.0,-1,CCW,CW,"Given the image provided, which appears to be a Gabor patch with a subtle pattern, the tilt of the patch seems to be slightly clockwise (CW) from vertical.
+
+CW",0,
+72,0.0,very_high,1.8,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+73,50.0,low,0.6,16.0,16.0,-1,CW,CCW,CCW,0,
+74,0.0,very_high,1.8,-24.0,24.0,1,CCW,CW,"Given the orientation of the Gabor patch in the image, the tilt appears to be slightly clockwise relative to vertical.
+
+CW",0,
+75,0.0,very_high,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+76,50.0,low,1.8,-8.0,8.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+77,50.0,very_high,1.8,16.0,16.0,-1,CW,CCW,CCW,0,
+78,50.0,very_high,1.8,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+79,0.0,very_high,1.8,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+80,50.0,very_high,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+81,50.0,low,0.6,24.0,24.0,1,CW,CW,"Based on the image provided, the Gabor patch appears to be tilted clockwise (CW) relative to vertical. Therefore, the response is:
+
+CW",1,
+82,0.0,very_high,1.8,-24.0,24.0,-1,CCW,CCW,CCW,1,
+83,0.0,low,1.8,-24.0,24.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+84,50.0,low,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+85,50.0,low,0.6,-24.0,24.0,1,CCW,CCW,CCW,1,
+86,0.0,low,0.6,-16.0,16.0,1,CCW,CCW,CCW,1,
+87,50.0,low,0.6,-16.0,16.0,-1,CCW,CCW,CCW,1,
+88,50.0,low,0.6,-24.0,24.0,1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+89,0.0,very_high,1.8,-8.0,8.0,-1,CCW,CCW,CCW,1,
+90,0.0,low,1.8,24.0,24.0,1,CW,CCW,CCW,0,
+91,0.0,very_high,1.8,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+92,0.0,low,1.8,-16.0,16.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+93,0.0,very_high,1.8,16.0,16.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+94,0.0,low,0.6,24.0,24.0,1,CW,CCW,CCW,0,
+95,50.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+96,50.0,low,1.8,24.0,24.0,1,CW,CCW,CCW,0,
+97,0.0,low,0.6,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+98,50.0,low,0.6,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+99,50.0,very_high,0.6,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+100,0.0,very_high,0.6,8.0,8.0,-1,CW,CW,"Given the orientation of the Gabor patch in the image, the tilt appears to be slightly clockwise relative to vertical.
+
+CW",1,
+101,50.0,low,0.6,16.0,16.0,1,CW,CCW,CCW,0,
+102,50.0,very_high,1.8,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+103,50.0,very_high,1.8,16.0,16.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+104,50.0,very_high,0.6,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+105,0.0,low,0.6,-16.0,16.0,-1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+106,0.0,low,1.8,16.0,16.0,1,CW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",0,
+107,50.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+108,0.0,low,1.8,-16.0,16.0,-1,CCW,CCW,CCW,1,
+109,50.0,very_high,1.8,-24.0,24.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+110,50.0,very_high,0.6,8.0,8.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+111,50.0,very_high,1.8,-8.0,8.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+112,0.0,very_high,1.8,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+113,0.0,low,0.6,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+114,50.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+115,0.0,low,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+116,0.0,very_high,1.8,-16.0,16.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+117,50.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+118,50.0,very_high,1.8,-8.0,8.0,-1,CCW,CCW,CCW,1,
+119,0.0,very_high,0.6,8.0,8.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+120,50.0,low,0.6,-16.0,16.0,1,CCW,CW,"Based on the image provided, the Gabor patch appears to be tilted slightly clockwise (CW) relative to vertical. Therefore, the response is:
+
+CW",0,
+121,0.0,low,0.6,16.0,16.0,-1,CW,CW,"Based on the image provided, the Gabor patch appears to be tilted slightly clockwise (CW) relative to vertical. Therefore, the response is:
+
+CW",1,
+122,50.0,very_high,1.8,-8.0,8.0,1,CCW,CCW,CCW,1,
+123,50.0,very_high,1.8,8.0,8.0,-1,CW,CCW,CCW,0,
+124,50.0,low,1.8,8.0,8.0,-1,CW,CCW,CCW,0,
+125,0.0,very_high,0.6,16.0,16.0,-1,CW,CCW,CCW,0,
+126,0.0,very_high,0.6,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+127,50.0,very_high,1.8,8.0,8.0,1,CW,CCW,CCW,0,
+128,0.0,low,1.8,8.0,8.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+129,50.0,low,1.8,-8.0,8.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+130,0.0,very_high,0.6,16.0,16.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+131,0.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+132,50.0,low,0.6,-8.0,8.0,1,CCW,CCW,CCW,1,
+133,0.0,low,1.8,-8.0,8.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be oriented vertically with no discernible tilt either clockwise or counterclockwise. However, if a decision must be made in the context of the 2AFC task, and assuming there is a slight tilt that is not easily visible, the response would be:
+
+CCW",1,
+134,50.0,very_high,0.6,-24.0,24.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+135,0.0,low,0.6,8.0,8.0,1,CW,CCW,CCW,0,
+136,0.0,low,0.6,24.0,24.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+137,50.0,low,1.8,-24.0,24.0,-1,CCW,CCW,CCW,1,
+138,50.0,very_high,0.6,-8.0,8.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+139,0.0,very_high,0.6,-8.0,8.0,1,CCW,CCW,CCW,1,
+140,50.0,low,0.6,8.0,8.0,1,CW,CCW,"Given the orientation of the Gabor patch in the image, it appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+141,0.0,very_high,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+142,50.0,low,0.6,-16.0,16.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical.
+
+CCW",1,
+143,50.0,low,1.8,8.0,8.0,-1,CW,CCW,CCW,0,

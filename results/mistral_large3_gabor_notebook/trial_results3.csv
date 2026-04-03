@@ -1,0 +1,546 @@
+trial,eccentricity_pct,noise_level,spatial_freq_cpd,offset_deg,abs_offset_deg,side,true_choice,model_choice,model_raw_text,correct,api_error
+0,50.0,very_high,0.2,24.0,24.0,-1,CW,CCW,"Given the image provided, the Gabor patch appears to have a slight tilt. Based on the orientation visible, the patch seems to be tilted counterclockwise relative to vertical.
+
+CCW",0,
+1,0.0,low_mid,0.6,8.0,8.0,1,CW,CCW,CCW,0,
+2,50.0,low,0.1,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch as the image is too blurry. Therefore, I cannot accurately judge whether the patch is tilted clockwise (CW) or counterclockwise (CCW) relative to vertical.",1,
+3,50.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+4,0.0,very_high,0.2,24.0,24.0,-1,CW,CCW,CCW,0,
+5,0.0,low_mid,0.2,8.0,8.0,-1,CW,CW,"Given the low visibility and the lack of clear orientation details in the provided Gabor patch image, it is challenging to determine the tilt direction with certainty. However, based on the subtle impression from the image, the tilt appears to be **CW** (clockwise).",1,
+6,50.0,very_high,0.6,-4.0,4.0,1,CCW,CCW,"The Gabor patch in the image appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+7,0.0,very_high,0.6,4.0,4.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+8,0.0,low_mid,0.6,24.0,24.0,-1,CW,CCW,CCW,0,
+9,50.0,very_high,0.2,-8.0,8.0,-1,CCW,CCW,"Given the low contrast and resolution of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the visible characteristics, the patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+10,50.0,low_mid,0.1,-8.0,8.0,1,CCW,CCW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the tilt direction with certainty. However, based on the available visual information, the patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+11,0.0,very_high,0.2,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+12,50.0,low,0.2,24.0,24.0,1,CW,CCW,"Based on the provided image, it is not possible to definitively determine the orientation of the Gabor patch due to its low resolution and blurriness. However, if I were to make an educated guess based on the visible shading and the general shape, I would respond with:
+
+CCW",0,
+13,0.0,low_mid,0.2,4.0,4.0,-1,CW,CCW,CCW,0,
+14,50.0,low,0.1,-8.0,8.0,1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low resolution and blurriness. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). For an accurate judgment, a clearer image would be necessary.",1,
+15,50.0,very_high,0.2,4.0,4.0,1,CW,CCW,CCW,0,
+16,0.0,low,0.1,-4.0,4.0,1,CCW,CCW,"Based on the provided image, which shows a very low-contrast Gabor patch, it is difficult to discern a clear orientation. However, if forced to make a judgment in a 2AFC (two-alternative forced choice) task, and assuming there is a slight tilt visible, the response would be:
+
+CCW",1,
+17,0.0,very_high,0.6,-24.0,24.0,1,CCW,CCW,CCW,1,
+18,50.0,very_high,0.1,4.0,4.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+19,50.0,low,0.1,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to the low resolution and lack of clear visual details. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). If this were a real task, additional information or a clearer image would be necessary to make a judgment.",1,
+20,0.0,low,0.1,24.0,24.0,-1,CW,CCW,"Based on the provided image, it is not possible to accurately determine the orientation of the Gabor patch due to its low resolution and lack of clarity. Therefore, I cannot confidently respond with either CW (clockwise) or CCW (counterclockwise). If this were a real task, additional clarity or a higher resolution image would be necessary to make a judgment.",0,
+21,50.0,low,0.2,-8.0,8.0,1,CCW,CW,"Given the provided image, the Gabor patch appears quite blurry, making it challenging to discern the orientation precisely. However, based on the visible gradient and faint pattern, the tilt seems slightly **clockwise (CW)** from vertical.
+
+CW",0,
+22,0.0,very_high,0.1,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+23,50.0,very_high,0.6,-4.0,4.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+24,0.0,low_mid,0.6,-8.0,8.0,-1,CCW,CCW,CCW,1,
+25,0.0,low,0.6,4.0,4.0,-1,CW,CCW,"Given the provided image of the Gabor patch, the tilt appears to be very slight. Based on the orientation observed, the patch seems to be tilted counterclockwise relative to vertical.
+
+CCW",0,
+26,0.0,very_high,0.2,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+27,0.0,low,0.1,8.0,8.0,1,CW,CCW,"Based on the provided image, which is extremely blurry and lacks clear visual details, it is not possible to accurately determine the orientation of the Gabor patch. However, since a response is required, and assuming there might be a slight impression of tilt, I will respond with:
+
+CCW",0,
+28,50.0,low_mid,0.1,-4.0,4.0,1,CCW,CCW,"Given the low resolution and the lack of clear visual detail in the image, it is not possible to accurately determine the tilt direction of the Gabor patch. However, based on the typical appearance of such stimuli and assuming there is a slight tilt visible, the response would be:
+
+CCW",1,
+29,50.0,low,0.6,24.0,24.0,1,CW,CW,"Given the provided image, the Gabor patch appears to have a slight tilt. Based on the visible orientation, the patch seems to be tilted **clockwise (CW)** relative to vertical.
+
+CW",1,
+30,50.0,very_high,0.1,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+31,0.0,low_mid,0.1,-4.0,4.0,-1,CCW,CCW,"Given the extremely low contrast and resolution of the Gabor patch in the image, it is not possible to reliably determine the orientation or tilt direction. However, based on the available visual information, the response is:
+
+CCW",1,
+32,50.0,low,0.2,24.0,24.0,1,CW,CW,"Given the provided image, the Gabor patch appears quite blurry, making it challenging to determine the exact orientation. However, based on the visible gradient and faint pattern, the tilt seems to be slightly **clockwise (CW)** relative to vertical.
+
+Answer: CW",1,
+33,50.0,low_mid,0.6,-8.0,8.0,-1,CCW,CCW,"Given the image provided and the nature of the task, the Gabor patch appears to have a slight tilt. Based on the visual assessment, the tilt of the Gabor patch seems to be counterclockwise relative to vertical.
+
+CCW",1,
+34,0.0,low,0.6,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+35,50.0,low,0.6,4.0,4.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be oriented vertically with no discernible tilt either clockwise or counterclockwise. However, if forced to make a judgment in a 2AFC (two-alternative forced choice) task, and assuming there is a slight tilt that is not clearly visible, the most accurate response cannot be confidently given.
+
+Given the constraints of the task, I will respond with:
+CCW",0,
+36,0.0,very_high,0.1,8.0,8.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",0,
+37,50.0,very_high,0.6,8.0,8.0,-1,CW,CCW,"Given the image provided, there is no visible Gabor patch around the fixation cross to assess the tilt direction. However, based on the typical appearance of such stimuli in visual tasks, if we assume the hypothetical presence of a Gabor patch:
+
+Since I cannot see an actual tilt in the image, I cannot provide a definitive answer. If forced to make a judgment based on standard examples:
+
+CCW",0,
+38,0.0,very_high,0.6,-24.0,24.0,1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+39,50.0,low_mid,0.2,-4.0,4.0,-1,CCW,CCW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible characteristics, the patch appears to have a slight tilt.
+
+Respond with: **CCW**",1,
+40,50.0,low_mid,0.2,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+41,0.0,low,0.1,4.0,4.0,-1,CW,CCW,"Given the image provided, it appears to be a low-contrast Gabor patch without a clearly discernible tilt. Based on the available visual information, it is not possible to definitively determine the tilt direction. However, if forced to make a judgment under uncertainty, the response would be:
+
+CCW",0,
+42,50.0,low_mid,0.1,-24.0,24.0,1,CCW,CCW,"Given the image provided, the Gabor patch appears to have a slight tilt. Based on the orientation visible, the patch seems to be tilted counterclockwise relative to vertical.
+
+CCW",1,
+43,50.0,low_mid,0.1,24.0,24.0,-1,CW,CCW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the tilt direction with certainty. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",0,
+44,0.0,very_high,0.1,8.0,8.0,-1,CW,CCW,"Given the provided image, which appears to be a Gabor patch with a very subtle or nearly vertical orientation, it is challenging to discern a clear tilt. However, based on the slight impression of orientation, the patch seems to be tilted **counterclockwise** relative to vertical.
+
+CCW",0,
+45,0.0,low_mid,0.2,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+46,50.0,very_high,0.1,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+47,50.0,low_mid,0.6,-8.0,8.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+48,50.0,very_high,0.6,24.0,24.0,-1,CW,CCW,CCW,0,
+49,50.0,low_mid,0.1,4.0,4.0,-1,CW,CCW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",0,
+50,50.0,low,0.6,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be oriented vertically with no discernible tilt either clockwise or counterclockwise. However, if forced to make a judgment in a 2AFC (two-alternative forced choice) task, and assuming there is a slight tilt not clearly visible, the most reasonable response would be:
+
+CCW",1,
+51,0.0,very_high,0.1,-4.0,4.0,1,CCW,CCW,"Given the orientation of the Gabor patch in the image, it appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+52,50.0,low_mid,0.2,24.0,24.0,1,CW,CCW,"Given the low visibility and the lack of clear definition in the image, it is challenging to determine the tilt direction of the Gabor patch with certainty. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+CCW",0,
+53,0.0,low,0.1,-8.0,8.0,-1,CCW,CCW,"Given the low visibility and lack of clear definition in the provided image, it is not possible to accurately determine the tilt direction of the Gabor patch. However, based on the typical requirements of such a task, if I had to make an educated guess with the available information, I would respond with:
+
+CCW",1,
+54,0.0,low,0.6,-24.0,24.0,-1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+55,0.0,very_high,0.1,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+56,50.0,low_mid,0.1,8.0,8.0,1,CW,CCW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",0,
+57,50.0,low_mid,0.2,-24.0,24.0,-1,CCW,CCW,"Given the low resolution and the blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible characteristics, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+58,0.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,CCW,1,
+59,0.0,low,0.1,24.0,24.0,1,CW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch due to its extreme blurriness. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise).",0,
+60,0.0,low,0.2,8.0,8.0,1,CW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low resolution and lack of clear definition. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). In a real experimental setting, you would need a clearer image to make this judgment.",0,
+61,0.0,low_mid,0.1,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+62,50.0,low,0.2,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low resolution and blurriness. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). In a real experimental setting, clearer visual stimuli would be necessary to make such a judgment.",1,
+63,0.0,low_mid,0.2,24.0,24.0,-1,CW,CCW,CCW,0,
+64,0.0,low,0.1,-24.0,24.0,-1,CCW,CCW,"Given the low visibility and lack of clear definition in the provided image, it is not possible to accurately determine the tilt direction of the Gabor patch relative to vertical.
+
+However, based on the typical requirements of such a task, if you must provide an answer, a random guess would be necessary.
+
+CCW",1,
+65,50.0,very_high,0.1,-24.0,24.0,-1,CCW,CCW,"Given the image provided, the Gabor patch appears to have a slight tilt. Based on the orientation visible, the patch seems to be tilted **counterclockwise** relative to vertical.
+
+CCW",1,
+66,0.0,low,0.1,-8.0,8.0,1,CCW,CCW,"Based on the provided image, it is not possible to definitively determine the orientation of the Gabor patch due to its low resolution and lack of clear visual detail. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). For an accurate judgment, a clearer image would be necessary.",1,
+67,50.0,low,0.6,-24.0,24.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted counterclockwise relative to vertical.
+
+CCW",1,
+68,0.0,very_high,0.6,-4.0,4.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+69,50.0,low_mid,0.2,-8.0,8.0,1,CCW,CCW,CCW,1,
+70,50.0,very_high,0.2,-8.0,8.0,1,CCW,CW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted **clockwise (CW)** relative to vertical. Thus, the response is:
+
+CW",0,
+71,0.0,low_mid,0.2,8.0,8.0,1,CW,CCW,CCW,0,
+72,50.0,very_high,0.2,-24.0,24.0,-1,CCW,CCW,CCW,1,
+73,0.0,low,0.6,-24.0,24.0,1,CCW,CCW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the subtle visual cues available, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",1,
+74,0.0,low_mid,0.6,-4.0,4.0,1,CCW,CCW,CCW,1,
+75,0.0,very_high,0.1,4.0,4.0,-1,CW,CCW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the tilt direction with high confidence. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise (CCW)** relative to vertical.
+
+Response: **CCW**",0,
+76,0.0,low_mid,0.6,4.0,4.0,1,CW,CCW,CCW,0,
+77,50.0,low_mid,0.6,24.0,24.0,-1,CW,CCW,"Given the image provided and the nature of the Gabor patch, it appears that the patch is oriented vertically with no discernible tilt either clockwise or counterclockwise. However, if forced to make a judgment based on the slight visual impression, the tilt seems more consistent with a counterclockwise orientation.
+
+CCW",0,
+78,0.0,low_mid,0.1,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+79,0.0,very_high,0.1,4.0,4.0,-1,CW,CCW,CCW,0,
+80,50.0,low,0.1,-4.0,4.0,1,CCW,CW,"Given the extremely low visibility and lack of clear orientation details in the provided Gabor patch image, it is not possible to reliably determine the tilt direction relative to vertical.
+
+However, based on the task requirements, I will provide a response with the best possible guess: **CW**.",0,
+81,50.0,low_mid,0.6,-24.0,24.0,1,CCW,CCW,CCW,1,
+82,0.0,very_high,0.1,24.0,24.0,1,CW,CCW,"Given the image provided and the nature of the 2AFC (two-alternative forced choice) visual discrimination task, it appears there is no clearly visible Gabor patch with a discernible tilt. However, based on the available visual information and assuming the faint pattern might suggest a slight orientation, the best judgment I can make is:
+
+CCW",0,
+83,50.0,low_mid,0.2,4.0,4.0,-1,CW,CCW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible characteristics, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",0,
+84,0.0,low_mid,0.1,4.0,4.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",0,
+85,0.0,low_mid,0.6,-24.0,24.0,1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+86,50.0,low_mid,0.6,4.0,4.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+87,50.0,low_mid,0.6,8.0,8.0,-1,CW,CCW,"Given the image provided and the nature of the task, the Gabor patch appears to have a slight tilt. Based on the visual assessment, the tilt of the Gabor patch seems to be counterclockwise relative to vertical.
+
+CCW",0,
+88,50.0,low,0.6,-24.0,24.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+89,0.0,low_mid,0.1,-8.0,8.0,1,CCW,CCW,CCW,1,
+90,50.0,very_high,0.1,8.0,8.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+91,50.0,very_high,0.1,-8.0,8.0,-1,CCW,CW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the tilt with certainty. However, based on the available visual information, the patch appears to be tilted **clockwise** relative to vertical.
+
+**CW**",0,
+92,0.0,low_mid,0.1,24.0,24.0,-1,CW,CCW,CCW,0,
+93,50.0,low_mid,0.2,8.0,8.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+94,0.0,low,0.6,-8.0,8.0,1,CCW,CCW,"Given the provided image, the Gabor patch appears to have a slight tilt. Based on the visual assessment, the tilt seems to be counterclockwise relative to vertical.
+
+CCW",1,
+95,0.0,low,0.1,8.0,8.0,1,CW,CCW,"Given the extremely low visibility of the Gabor patch in the image, it is not possible to reliably determine the orientation of the tilt. However, based on the available visual information, the response would be speculative.
+
+CCW",0,
+96,50.0,low_mid,0.2,4.0,4.0,1,CW,CCW,"Given the low resolution and the blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible gradient and the faint impression of the patch's tilt, the orientation appears to be slightly counterclockwise relative to vertical.
+
+CCW",0,
+97,50.0,very_high,0.1,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be slightly tilted. Given the orientation of the patch, it seems to be tilted counterclockwise relative to vertical.
+
+CCW",1,
+98,50.0,low,0.2,-24.0,24.0,1,CCW,CW,"Given the low visibility and the faint appearance of the Gabor patch in the image, it is challenging to determine the tilt with high confidence. However, based on the visible gradient, the patch appears to be slightly tilted **clockwise** relative to vertical.
+
+**CW**",0,
+99,50.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+100,0.0,low_mid,0.6,-8.0,8.0,-1,CCW,CCW,CCW,1,
+101,50.0,low,0.1,24.0,24.0,1,CW,CCW,"Given the extremely low visibility and lack of clear orientation in the provided Gabor patch image, it is not possible to reliably determine the tilt direction relative to vertical. Under these conditions, any judgment would be a guess rather than a valid observation.
+
+Thus, no accurate response (CW or CCW) can be provided based on this image.",0,
+102,50.0,low,0.2,4.0,4.0,-1,CW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low resolution and blurriness. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). For an accurate judgment, a clearer image would be necessary.",0,
+103,50.0,low_mid,0.6,24.0,24.0,1,CW,CCW,"Given the provided image, the Gabor patch appears to have a slight tilt. Based on the orientation of the patch, it seems to be tilted counterclockwise relative to vertical.
+
+CCW",0,
+104,0.0,low_mid,0.2,-8.0,8.0,-1,CCW,CCW,"Given the image of the Gabor patch provided, the tilt appears to be very slight. Based on the orientation, the patch seems to be tilted **counterclockwise** relative to vertical.
+
+CCW",1,
+105,50.0,low,0.1,4.0,4.0,1,CW,CCW,"Given the provided image, the Gabor patch appears to lack a clear, discernible orientation due to its low contrast and blurriness. However, based on the visible gradient, if any tilt is perceived, it seems minimal and could be interpreted as slightly counterclockwise.
+
+Therefore, the response is: CCW.",0,
+106,0.0,very_high,0.2,8.0,8.0,1,CW,CCW,CCW,0,
+107,0.0,low,0.2,-8.0,8.0,1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low visibility and lack of clear definition. However, if we assume that the image is intended to show a discernible tilt, and given the constraints of the task, I would have to make an educated guess. Since no clear tilt can be observed, I cannot provide a definitive answer of CW (clockwise) or CCW (counterclockwise). In a real experimental setting, if the tilt is not discernible, it would be appropriate to guess or report that the orientation cannot be determined.",1,
+108,0.0,low,0.2,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to have a slight tilt. Given the orientation, the tilt is counterclockwise (CCW) relative to vertical. Therefore, the response is:
+
+CCW",0,
+109,0.0,very_high,0.6,4.0,4.0,-1,CW,CCW,CCW,0,
+110,50.0,very_high,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patches appear to be tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+111,0.0,very_high,0.2,-4.0,4.0,-1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+112,0.0,low,0.6,8.0,8.0,1,CW,CW,"Given the image of the Gabor patch and its apparent tilt, the orientation seems to be slightly clockwise (CW) from the vertical axis.
+
+CW",1,
+113,0.0,low_mid,0.1,8.0,8.0,1,CW,CW,"Given the image provided, the Gabor patch appears to have a slight tilt. Based on the orientation visible, the patch seems to be tilted **clockwise** (CW) relative to vertical.
+
+CW",1,
+114,50.0,low_mid,0.6,-4.0,4.0,1,CCW,CCW,"Given the image provided, the Gabor patch appears to be oriented vertically with no discernible tilt either clockwise or counterclockwise. However, if forced to make a judgment based on minimal visual cues, the tilt seems more consistent with a counterclockwise orientation.
+
+CCW",1,
+115,0.0,low,0.2,-24.0,24.0,1,CCW,CCW,"Given the low visibility and the lack of clear orientation details in the provided Gabor patch image, it is not possible to definitively determine the tilt direction. However, based on the typical appearance of such stimuli and assuming a slight tilt is present, the most plausible judgment in this context would be:
+
+CCW",1,
+116,0.0,low,0.1,4.0,4.0,-1,CW,CCW,"Based on the provided image, it is not possible to definitively determine the orientation of the Gabor patch due to its low resolution and lack of clear visual detail. However, given the task requirements, I will make an educated guess based on the available information.
+
+CCW",0,
+117,0.0,low,0.6,24.0,24.0,1,CW,CCW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible characteristics, the patch appears to have a slight tilt in the counterclockwise direction relative to vertical.
+
+CCW",0,
+118,50.0,low_mid,0.1,-24.0,24.0,1,CCW,CCW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the tilt direction with certainty. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",1,
+119,0.0,low,0.2,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+120,0.0,low,0.6,8.0,8.0,1,CW,CW,"Given the low visibility and the faint appearance of the Gabor patch in the image, it is challenging to determine the tilt with high confidence. However, based on the visible orientation, the patch appears to be slightly tilted **clockwise (CW)** relative to vertical.
+
+CW",1,
+121,0.0,low_mid,0.2,4.0,4.0,1,CW,CW,"Given the low visibility and the faint appearance of the Gabor patch in the image, it is challenging to determine the tilt with high confidence. However, based on the available visual information, the patch appears to be slightly tilted **clockwise (CW)** relative to vertical. Therefore, the response is:
+
+CW",1,
+122,50.0,low_mid,0.2,-8.0,8.0,-1,CCW,CCW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible gradient and shading, the patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+123,0.0,low_mid,0.6,-24.0,24.0,-1,CCW,CCW,CCW,1,
+124,50.0,very_high,0.6,4.0,4.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+125,0.0,low,0.2,-4.0,4.0,1,CCW,CW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted **clockwise (CW)** relative to vertical.
+
+Answer: CW",0,
+126,50.0,low,0.6,8.0,8.0,-1,CW,CW,"Based on the provided image, which shows a Gabor patch with a noticeable tilt, the orientation appears to be tilted clockwise (CW) from the vertical. Therefore, the response is:
+
+CW",1,
+127,0.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical.
+
+CCW",0,
+128,50.0,low_mid,0.1,4.0,4.0,-1,CW,CCW,"Given the low resolution and the lack of clear orientation details in the provided image, it is not possible to accurately determine the tilt direction of the Gabor patch. However, based on the visible information, if there appears to be any slight tilt, a cautious judgment would be:
+
+CCW",0,
+129,50.0,very_high,0.6,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+130,50.0,very_high,0.6,-24.0,24.0,-1,CCW,CCW,"Given the orientation of the Gabor patch in the image, the tilt appears to be counterclockwise relative to vertical.
+
+CCW",1,
+131,50.0,very_high,0.6,4.0,4.0,1,CW,CCW,CCW,0,
+132,50.0,very_high,0.2,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+133,0.0,very_high,0.1,-8.0,8.0,1,CCW,CCW,"Based on the provided image, the Gabor patch does not exhibit a clear tilt in either direction relative to vertical. However, if forced to make a judgment in a 2AFC (two-alternative forced choice) task, the response would be:
+
+CCW",1,
+134,0.0,low_mid,0.6,24.0,24.0,-1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+135,0.0,low_mid,0.1,-24.0,24.0,-1,CCW,CCW,CCW,1,
+136,0.0,low_mid,0.6,-4.0,4.0,-1,CCW,CW,"Given the image provided and the nature of the Gabor patch, it appears that the orientation of the patch is slightly tilted. Based on visual inspection, the tilt seems to be clockwise (CW) from the vertical.
+
+CW",0,
+137,0.0,low_mid,0.6,4.0,4.0,-1,CW,CCW,"Given the low visibility and the subtle tilt of the Gabor patch in the image, it appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",0,
+138,50.0,low_mid,0.2,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+139,50.0,low,0.1,8.0,8.0,-1,CW,CCW,"Given the provided image, it appears to be a very low-contrast or blurred Gabor patch, making it difficult to discern the orientation clearly. Based on the available visual information and assuming the slight impression of tilt is accurate, the response would be:
+
+CCW",0,
+140,50.0,low,0.2,-24.0,24.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+141,50.0,low_mid,0.2,-24.0,24.0,1,CCW,CCW,"Given the low resolution and the faint appearance of the Gabor patch in the image, it is challenging to determine the tilt with high confidence. However, based on the visible characteristics, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+142,0.0,very_high,0.1,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+143,50.0,low_mid,0.6,-4.0,4.0,-1,CCW,CCW,"Given the provided image, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+144,0.0,very_high,0.2,8.0,8.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+145,50.0,low,0.2,8.0,8.0,1,CW,CW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted **clockwise (CW)** relative to vertical.
+
+**CW**",1,
+146,50.0,low,0.2,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low resolution and blurriness. Therefore, I cannot accurately respond with either CW (clockwise) or CCW (counterclockwise). For an accurate judgment, a clearer image would be necessary.",1,
+147,50.0,low_mid,0.2,8.0,8.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+148,0.0,low_mid,0.2,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",1,
+149,50.0,low,0.1,24.0,24.0,-1,CW,CCW,"Given the extremely low visibility of the Gabor patch in the image, it is not possible to accurately determine the tilt direction. However, based on the available visual information, the response is:
+
+CCW",0,
+150,50.0,low,0.1,8.0,8.0,1,CW,CW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible gradient and shading, the patch appears to have a slight tilt.
+
+I will respond with **CW** (clockwise).",1,
+151,50.0,very_high,0.2,24.0,24.0,-1,CW,CCW,CCW,0,
+152,50.0,low,0.2,8.0,8.0,1,CW,CW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the Gabor patch appears to have a slight tilt in the **clockwise** direction.
+
+CW",1,
+153,50.0,low,0.6,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise (CCW) relative to vertical. Therefore, the response is:
+
+CCW",1,
+154,50.0,low_mid,0.6,4.0,4.0,1,CW,CCW,CCW,0,
+155,50.0,low,0.1,-4.0,4.0,1,CCW,CCW,"Given the extremely low visibility of the Gabor patch in the image, it is not possible to reliably determine the orientation of the tilt. However, based on the faint appearance, if I were to make an educated guess, I would say:
+
+CCW",1,
+156,50.0,low,0.6,4.0,4.0,-1,CW,CW,"Based on the provided image, which shows a Gabor patch with a noticeable tilt, the orientation appears to be tilted clockwise (CW) from the vertical. Therefore, the response is:
+
+CW",1,
+157,50.0,low,0.6,24.0,24.0,-1,CW,CW,"Based on the provided image, which shows a Gabor patch with a visible tilt, the orientation appears to be slightly tilted clockwise (CW) from the vertical axis.
+
+CW",1,
+158,0.0,low,0.1,-24.0,24.0,1,CCW,CCW,"Based on the provided image, which is extremely low contrast and lacks clear visual details, it is not possible to accurately determine the orientation of the Gabor patch. However, given the task requirements, I will make the closest possible judgment.
+
+CCW",1,
+159,0.0,very_high,0.6,8.0,8.0,-1,CW,CW,"Given the orientation of the Gabor patch in the image, the tilt appears to be clockwise relative to vertical.
+
+CW",1,
+160,0.0,very_high,0.2,-8.0,8.0,1,CCW,CCW,CCW,1,
+161,0.0,very_high,0.2,-24.0,24.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+162,0.0,low_mid,0.1,-24.0,24.0,-1,CCW,CCW,CCW,1,
+163,50.0,very_high,0.1,8.0,8.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+164,0.0,low,0.6,24.0,24.0,-1,CW,CCW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible details, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",0,
+165,0.0,very_high,0.6,8.0,8.0,1,CW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+166,50.0,very_high,0.2,8.0,8.0,1,CW,CCW,"Given the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+167,0.0,low,0.1,-4.0,4.0,1,CCW,CCW,"Based on the provided image, which is quite indistinct, it is not possible to accurately determine the orientation of the Gabor patch. However, given the nature of the task, if you perceive any slight tilt, you should make your best judgment.
+
+If no clear tilt is discernible, the response should be based on the perceived minimal tilt:
+CCW",1,
+168,50.0,low,0.6,-8.0,8.0,-1,CCW,CCW,"Given the provided image, the Gabor patch appears to have a slight tilt. Based on the visual information:
+
+CCW",1,
+169,0.0,low_mid,0.6,8.0,8.0,1,CW,CCW,CCW,0,
+170,50.0,low_mid,0.6,8.0,8.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+171,0.0,very_high,0.6,24.0,24.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+172,0.0,low,0.2,24.0,24.0,-1,CW,CCW,"Based on the provided image, it is not possible to definitively determine the orientation of the Gabor patch due to its low resolution and blurriness. However, if I were to make an educated guess based on the visible information, I would respond with:
+
+CCW",0,
+173,0.0,low_mid,0.1,24.0,24.0,-1,CW,CCW,CCW,0,
+174,50.0,very_high,0.2,-4.0,4.0,-1,CCW,CCW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the tilt with high confidence. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",1,
+175,0.0,low_mid,0.2,24.0,24.0,1,CW,CCW,CCW,0,
+176,0.0,low,0.2,4.0,4.0,-1,CW,CW,"Based on the provided image, which shows a Gabor patch with a slight visual impression of tilt, the judgment regarding the orientation is challenging due to the low visibility. However, if I must decide, the tilt appears to be **CW** (clockwise).",1,
+177,50.0,very_high,0.6,8.0,8.0,1,CW,CCW,CCW,0,
+178,0.0,very_high,0.6,-8.0,8.0,-1,CCW,CCW,CCW,1,
+179,50.0,very_high,0.1,4.0,4.0,-1,CW,CCW,CCW,0,
+180,0.0,low_mid,0.1,4.0,4.0,-1,CW,CCW,"Given the low visibility and the lack of clear orientation details in the provided Gabor patch image, it is not possible to definitively determine the tilt direction. However, based on the subtle impression from the image, the tilt appears to be **CCW** (counterclockwise).",0,
+181,50.0,low,0.1,4.0,4.0,-1,CW,CCW,"Based on the provided image, which shows a very low-contrast Gabor patch, it is difficult to discern any clear orientation. However, if forced to make a judgment with the available information, the response would be:
+
+CCW",0,
+182,0.0,low,0.2,8.0,8.0,-1,CW,CCW,"Given the extremely low visibility of the Gabor patch in the image, it is not possible to reliably determine the orientation of the tilt. However, based on the available visual information, if forced to make a judgment, the response would be:
+
+CCW",0,
+183,50.0,low_mid,0.1,24.0,24.0,1,CW,CCW,"Given the image provided, it is difficult to discern a clear orientation of the Gabor patch due to its low contrast and resolution. However, based on the visible information, if there is any tilt, it appears to be minimal.
+
+Given the constraints and the appearance, I will respond with:
+CCW",0,
+184,0.0,very_high,0.2,4.0,4.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+185,50.0,low,0.6,8.0,8.0,-1,CW,CCW,"Given the provided image, the Gabor patch appears to have a slight tilt. Based on the visual information, the tilt seems to be counterclockwise relative to vertical.
+
+CCW",0,
+186,50.0,low_mid,0.1,-8.0,8.0,-1,CCW,CCW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted **counterclockwise** relative to vertical.
+
+**CCW**",1,
+187,50.0,low,0.2,4.0,4.0,-1,CW,CW,"Based on the provided image, which shows a Gabor patch with a noticeable tilt, the orientation appears to be tilted **clockwise (CW)** from the vertical. Therefore, the response is:
+
+CW",1,
+188,50.0,very_high,0.1,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+189,50.0,low,0.1,-24.0,24.0,1,CCW,CW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible characteristics, the patch appears to have a slight tilt.
+
+After careful consideration, the tilt of the Gabor patch seems to be **clockwise (CW)**.",0,
+190,0.0,very_high,0.2,24.0,24.0,-1,CW,CCW,CCW,0,
+191,50.0,very_high,0.2,-4.0,4.0,1,CCW,CW,"Given the provided image, the Gabor patch appears to have a slight tilt. Based on the visual assessment, the tilt is **clockwise** relative to vertical.
+
+CW",0,
+192,50.0,low_mid,0.6,-24.0,24.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted counterclockwise relative to vertical.
+
+CCW",1,
+193,0.0,low,0.2,-4.0,4.0,-1,CCW,CW,"Given the low resolution and blurriness of the image, it is challenging to determine the precise orientation of the Gabor patch. However, based on the visible gradient and the faint impression of tilt, the patch appears to be tilted **clockwise (CW)** relative to vertical. Thus, the response is:
+
+CW",0,
+194,0.0,low,0.2,4.0,4.0,1,CW,CCW,"Given the low visibility and the blurriness of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",0,
+195,50.0,very_high,0.2,4.0,4.0,1,CW,CCW,"Given the image provided, the Gabor patch appears to have a slight tilt. Based on the orientation observed, the tilt is counterclockwise relative to vertical.
+
+CCW",0,
+196,0.0,low,0.6,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+197,0.0,low,0.6,4.0,4.0,1,CW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+198,50.0,very_high,0.1,-24.0,24.0,-1,CCW,CCW,"Given the low visibility and resolution of the Gabor patch in the image, it is challenging to determine the precise orientation. However, based on the available visual information, the patch appears to be slightly tilted counterclockwise relative to vertical.
+
+CCW",1,
+199,0.0,low_mid,0.1,8.0,8.0,-1,CW,CCW,"Given the provided image, the Gabor patch appears to have no discernible tilt either clockwise or counterclockwise from the vertical orientation. However, if forced to make a judgment based on the typical nature of such tasks and the slight visual impression, the response would be:
+
+CCW",0,
+200,0.0,low,0.6,-8.0,8.0,-1,CCW,CW,"Given the provided image of the Gabor patch and its apparent tilt, the orientation seems to be slightly clockwise from vertical.
+
+CW",0,
+201,0.0,very_high,0.1,24.0,24.0,1,CW,CCW,CCW,0,
+202,0.0,very_high,0.1,-24.0,24.0,1,CCW,CW,"Given the image provided, which shows a Gabor patch with a very subtle pattern, it appears that the tilt of the patch is slightly clockwise (CW) from vertical.
+
+CW",0,
+203,0.0,low_mid,0.2,-8.0,8.0,1,CCW,CCW,CCW,1,
+204,0.0,very_high,0.2,-8.0,8.0,1,CCW,CCW,CCW,1,
+205,0.0,very_high,0.2,4.0,4.0,1,CW,CCW,"Given the orientation of the Gabor patch in the image, it appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",0,
+206,50.0,low_mid,0.1,-4.0,4.0,-1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+207,50.0,low,0.6,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, it is not possible to definitively determine the orientation of the Gabor patch due to its low resolution and lack of clear visual cues. However, if we assume the task requires a response, and given the ambiguity, I would have to make an educated guess. Since no clear tilt is discernible, the response cannot be accurately provided. In a real experimental setting, one would need a clearer image to make a proper judgment. Given the constraints, I cannot provide a CW or CCW response.",1,
+208,0.0,low_mid,0.2,-4.0,4.0,1,CCW,CCW,"Based on the provided image, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+209,0.0,low,0.2,-8.0,8.0,-1,CCW,CCW,"Based on the provided image, it is not possible to determine the orientation of the Gabor patch with certainty due to its low visibility. However, if we assume that the visible pattern suggests a tilt, and given the constraints of the question, I would have to make an educated guess. Since the image does not provide clear evidence, I cannot accurately respond with CW or CCW. In a real experimental setting, if the tilt is not discernible, it would be appropriate to guess or report that the orientation cannot be determined.",1,
+210,50.0,low,0.2,-4.0,4.0,-1,CCW,CW,"Based on the provided image, the Gabor patch appears to have a slight tilt. Given the orientation of the patch, it seems to be tilted **clockwise (CW)** relative to vertical.
+
+Therefore, the response is: CW",0,
+211,50.0,low_mid,0.1,8.0,8.0,1,CW,CW,"Given the low resolution and the lack of clear visual detail in the image, it is challenging to determine the orientation of the Gabor patch with certainty. However, based on the visible information, the patch appears to have a slight tilt.
+
+I will respond with **CW** (clockwise).",1,
+212,50.0,very_high,0.1,24.0,24.0,-1,CW,CCW,"Based on the provided image, the Gabor patch appears to be slightly tilted counterclockwise relative to vertical. Therefore, the response is:
+
+CCW",0,
+213,0.0,very_high,0.6,-4.0,4.0,-1,CCW,CCW,"Based on the image provided, the Gabor patch appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
+214,50.0,very_high,0.2,8.0,8.0,-1,CW,CW,"Given the image provided, the Gabor patch appears to have a slight tilt. Based on the orientation visible, the patch is tilted **clockwise** relative to vertical.
+
+CW",1,
+215,0.0,low_mid,0.2,-24.0,24.0,1,CCW,CCW,"Given the orientation of the Gabor patch in the image, it appears to be tilted slightly counterclockwise relative to vertical.
+
+CCW",1,
