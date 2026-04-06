@@ -1,0 +1,833 @@
+{
+  "model": "claude-sonnet-4-5",
+  "base_url": "https://litellm.ccv.brown.edu",
+  "n_trials": 1620,
+  "n_valid_trials": 1620,
+  "overall_accuracy": 0.48950617283950615,
+  "accuracy_by_condition": [
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.6
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.36666666666666664
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.4666666666666667
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5666666666666667
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.4666666666666667
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.4
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.6333333333333333
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5666666666666667
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.36666666666666664
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.4
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.4666666666666667
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.6
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.36666666666666664
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.36666666666666664
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.6
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.4
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5666666666666667
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.4666666666666667
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5666666666666667
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.4666666666666667
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.5333333333333333
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.43333333333333335
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.5
+    }
+  ],
+  "marginal_accuracy_eccentricity": [
+    {
+      "eccentricity_pct": 0.0,
+      "accuracy": 0.49135802469135803
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "accuracy": 0.4876543209876543
+    }
+  ],
+  "marginal_accuracy_noise": [
+    {
+      "noise_level": "high",
+      "accuracy": 0.4777777777777778
+    },
+    {
+      "noise_level": "low",
+      "accuracy": 0.5037037037037037
+    },
+    {
+      "noise_level": "none",
+      "accuracy": 0.48703703703703705
+    }
+  ],
+  "marginal_accuracy_spatial_frequency": [
+    {
+      "spatial_freq_cpd": 0.4,
+      "accuracy": 0.5166666666666667
+    },
+    {
+      "spatial_freq_cpd": 0.8,
+      "accuracy": 0.4759259259259259
+    },
+    {
+      "spatial_freq_cpd": 1.6,
+      "accuracy": 0.4759259259259259
+    }
+  ],
+  "marginal_accuracy_contrast_amplitude": [
+    {
+      "contrast_amplitude": 0.6,
+      "accuracy": 0.49444444444444446
+    },
+    {
+      "contrast_amplitude": 0.8,
+      "accuracy": 0.5037037037037037
+    },
+    {
+      "contrast_amplitude": 1.0,
+      "accuracy": 0.4703703703703704
+    }
+  ],
+  "marginal_accuracy_abs_offset": [
+    {
+      "abs_offset_deg": 6.0,
+      "accuracy": 0.4925925925925926
+    },
+    {
+      "abs_offset_deg": 16.0,
+      "accuracy": 0.48703703703703705
+    },
+    {
+      "abs_offset_deg": 45.0,
+      "accuracy": 0.4888888888888889
+    }
+  ],
+  "thresholds_75_by_condition": [
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": 6.0
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": 16.0
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 0.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "high",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "low",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.4,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 0.8,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": 45.0
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.6,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 0.8,
+      "threshold_75_deg": NaN
+    },
+    {
+      "eccentricity_pct": 50.0,
+      "noise_level": "none",
+      "spatial_freq_cpd": 1.6,
+      "contrast_amplitude": 1.0,
+      "threshold_75_deg": NaN
+    }
+  ]
+}
